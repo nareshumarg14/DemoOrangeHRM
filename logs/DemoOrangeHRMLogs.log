@@ -1,0 +1,46 @@
+[INFO ] 12-12-2022 08:44:14.831 TC001_UserLoginTest - URL that will be entered in the browser is - https://opensource-demo.orangehrmlive.com/
+[INFO ] 12-12-2022 08:44:16.726 TC001_UserLoginTest - Orange HRM application is opened
+[INFO ] 12-12-2022 08:44:18.987 TC001_UserLoginTest - User has logged into application
+[INFO ] 12-12-2022 08:44:19.653 TC001_UserLoginTest - Orange HRM application is closed
+[INFO ] 12-12-2022 08:45:14.559 TC002_VerifyForgotPasswordLink - URL that will be entered in the browser is - https://opensource-demo.orangehrmlive.com/
+[INFO ] 12-12-2022 08:45:20.319 TC002_VerifyForgotPasswordLink - Orange HRM application is opened
+[INFO ] 12-12-2022 08:45:20.903 TC002_VerifyForgotPasswordLink - Forgot your password? link is displayed
+[INFO ] 12-12-2022 08:45:21.548 TC002_VerifyForgotPasswordLink - Orange HRM application is closed
+[INFO ] 12-12-2022 08:47:43.312 TC001_UserLoginTest - URL that will be entered in the browser is - https://opensource-demo.orangehrmlive.com/
+[INFO ] 12-12-2022 08:47:45.584 TC001_UserLoginTest - Orange HRM application is opened
+[INFO ] 12-12-2022 08:47:47.861 TC001_UserLoginTest - User has logged into application
+[INFO ] 12-12-2022 08:47:48.506 TC001_UserLoginTest - Orange HRM application is closed
+[INFO ] 12-12-2022 08:47:49.777 TC002_VerifyForgotPasswordLink - URL that will be entered in the browser is - https://opensource-demo.orangehrmlive.com/
+[INFO ] 12-12-2022 08:47:51.690 TC002_VerifyForgotPasswordLink - Orange HRM application is opened
+[INFO ] 12-12-2022 08:47:52.064 TC002_VerifyForgotPasswordLink - Forgot your password? link is displayed
+[INFO ] 12-12-2022 08:47:52.722 TC002_VerifyForgotPasswordLink - Orange HRM application is closed
+[INFO ] 12-12-2022 08:52:38.039 TC001_UserLoginTest - Edge Browser is launched successfully
+[INFO ] 12-12-2022 08:52:38.199 TC001_UserLoginTest - URL that will be entered in the browser is - https://opensource-demo.orangehrmlive.com/
+[INFO ] 12-12-2022 08:52:40.160 TC001_UserLoginTest - Orange HRM application is opened
+[INFO ] 12-12-2022 08:52:42.298 TC001_UserLoginTest - User has logged into application
+[INFO ] 12-12-2022 08:52:43.073 TC001_UserLoginTest - Orange HRM application is closed
+[INFO ] 12-12-2022 08:52:44.279 TC002_VerifyForgotPasswordLink - Edge Browser is launched successfully
+[INFO ] 12-12-2022 08:52:44.436 TC002_VerifyForgotPasswordLink - URL that will be entered in the browser is - https://opensource-demo.orangehrmlive.com/
+[INFO ] 12-12-2022 08:52:46.442 TC002_VerifyForgotPasswordLink - Orange HRM application is opened
+[INFO ] 12-12-2022 08:52:46.795 TC002_VerifyForgotPasswordLink - Forgot your password? link is displayed
+[INFO ] 12-12-2022 08:52:47.496 TC002_VerifyForgotPasswordLink - Orange HRM application is closed
+[INFO ] 12-12-2022 08:53:07.267 TC001_UserLoginTest - Chrome Browser is launched successfully
+[INFO ] 12-12-2022 08:53:07.404 TC001_UserLoginTest - URL that will be entered in the browser is - https://opensource-demo.orangehrmlive.com/
+[INFO ] 12-12-2022 08:53:09.417 TC001_UserLoginTest - Orange HRM application is opened
+[INFO ] 12-12-2022 08:53:11.666 TC001_UserLoginTest - User has logged into application
+[INFO ] 12-12-2022 08:53:12.342 TC001_UserLoginTest - Orange HRM application is closed
+[INFO ] 12-12-2022 08:53:13.480 TC002_VerifyForgotPasswordLink - Chrome Browser is launched successfully
+[INFO ] 12-12-2022 08:53:13.630 TC002_VerifyForgotPasswordLink - URL that will be entered in the browser is - https://opensource-demo.orangehrmlive.com/
+[INFO ] 12-12-2022 08:53:15.659 TC002_VerifyForgotPasswordLink - Orange HRM application is opened
+[INFO ] 12-12-2022 08:53:16.021 TC002_VerifyForgotPasswordLink - Forgot your password? link is displayed
+[INFO ] 12-12-2022 08:53:16.686 TC002_VerifyForgotPasswordLink - Orange HRM application is closed
+[INFO ] 12-12-2022 08:57:58.544 TC001_UserLoginTest - Chrome Browser is launched successfully
+[INFO ] 12-12-2022 08:57:58.683 TC001_UserLoginTest - URL that will be entered in the browser is - https://opensource-demo.orangehrmlive.com/
+[INFO ] 12-12-2022 08:58:03.228 TC001_UserLoginTest - Orange HRM application is opened
+[INFO ] 12-12-2022 08:58:05.602 TC001_UserLoginTest - User has logged into application
+[INFO ] 12-12-2022 08:58:06.299 TC001_UserLoginTest - Orange HRM application is closed
+[INFO ] 12-12-2022 08:58:07.444 TC002_VerifyForgotPasswordLink - Chrome Browser is launched successfully
+[INFO ] 12-12-2022 08:58:07.577 TC002_VerifyForgotPasswordLink - URL that will be entered in the browser is - https://opensource-demo.orangehrmlive.com/
+[INFO ] 12-12-2022 08:58:09.447 TC002_VerifyForgotPasswordLink - Orange HRM application is opened
+[INFO ] 12-12-2022 08:58:09.814 TC002_VerifyForgotPasswordLink - Forgot your password? link is displayed
+[INFO ] 12-12-2022 08:58:10.533 TC002_VerifyForgotPasswordLink - Orange HRM application is closed
